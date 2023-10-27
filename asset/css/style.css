@@ -18,5 +18,9 @@
 }
 
 .carousel-caption {
-    bottom: 10.25rem !important;
+    bottom: 8.25rem !important;
+}
+
+.coming-soon {
+    width: calc(100% - 72rem);
 }
