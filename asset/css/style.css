@@ -16,3 +16,7 @@
 .brand-logo {
     width: calc(100% - 45rem);
 }
+
+.carousel-caption {
+    bottom: 10.25rem !important;
+}
