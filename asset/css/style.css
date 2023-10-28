@@ -13,17 +13,17 @@
     list-style: none;
 }
 
-.carousel-caption {
-    bottom: 8.25rem !important;
-}
-
-/* @media only screen and (min-width: 1400px) {
+@media only screen and (min-width: 1400px) {
     .coming-soon {
         width: calc(100% - 105rem);
     }
 
     .brand-logo {
         width: calc(100 - 70rem);
+    }
+
+    .carousel-caption {
+        bottom: 25.25rem !important;
     }
 }
 
@@ -35,6 +35,10 @@
     .brand-logo {
         width: calc(100% - 36rem);
     }
+
+    .carousel-caption {
+        bottom: 8.25rem !important;
+    }
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -45,4 +49,4 @@
     .brand-logo {
         width: calc(100% - 30rem);
     }
-} */
+}
