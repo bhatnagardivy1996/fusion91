@@ -13,7 +13,11 @@
     list-style: none;
 }
 
-@media only screen and (min-width: 1400px) {
+.carousel-caption {
+    bottom: 30%;
+}
+
+/* @media only screen and (min-width: 1400px) {
     .coming-soon {
         width: calc(100% - 105rem);
     }
@@ -49,4 +53,4 @@
     .brand-logo {
         width: calc(100% - 30rem);
     }
-}
+} */
