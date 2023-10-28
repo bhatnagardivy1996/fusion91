@@ -17,6 +17,12 @@
     bottom: 30%;
 }
 
+@media only screen and (min-width: 1200px) {
+    .coming-soon {
+        width: 25%;
+    }
+}
+
 /* @media only screen and (min-width: 1400px) {
     .coming-soon {
         width: calc(100% - 105rem);
