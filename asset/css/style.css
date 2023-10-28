@@ -21,42 +21,18 @@
     .coming-soon {
         width: 15%;
     }
-}
-
-/* @media only screen and (min-width: 1400px) {
-    .coming-soon {
-        width: calc(100% - 105rem);
-    }
 
     .brand-logo {
-        width: calc(100 - 70rem);
-    }
-
-    .carousel-caption {
-        bottom: 50% !important;
+        width: 25%;
     }
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+@media only screen and (min-width: 768px) and (max-width: 991px) {
     .coming-soon {
-        width: calc(100% - 75rem);
+        width: 25%;
     }
 
     .brand-logo {
-        width: calc(100% - 42rem);
-    }
-
-    .carousel-caption {
-        bottom: 50% !important;
+        width: 45%;
     }
 }
-
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
-    .coming-soon {
-        width: calc(100% - 54rem);
-    }
-
-    .brand-logo {
-        width: calc(100% - 30rem);
-    }
-} */
