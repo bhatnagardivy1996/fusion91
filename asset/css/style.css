@@ -17,7 +17,7 @@
     bottom: 8.25rem !important;
 }
 
-@media only screen and (min-width: 1400px) {
+/* @media only screen and (min-width: 1400px) {
     .coming-soon {
         width: calc(100% - 105rem);
     }
@@ -45,4 +45,4 @@
     .brand-logo {
         width: calc(100% - 30rem);
     }
-}
+} */
