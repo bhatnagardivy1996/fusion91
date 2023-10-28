@@ -13,24 +13,12 @@
     list-style: none;
 }
 
-/* .brand-logo {
-    width: calc(100% - 48rem);
-} */
-
 .carousel-caption {
     bottom: 8.25rem !important;
 }
 
-/* .coming-soon {
-    width: calc(100% - 75rem);
-}
-
-@media(min-width: 1440px) {
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
     .coming-soon {
-        width: calc(100% - 110rem);
+        width: calc(100% - 70rem);
     }
-
-    .brand-logo {
-        width: calc(100% - 80rem);
-    }
-} */
+}
