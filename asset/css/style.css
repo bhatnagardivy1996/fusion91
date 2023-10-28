@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: 100%;
 }
 
 .fw-700 {
@@ -15,7 +14,7 @@
 }
 
 .brand-logo {
-    width: calc(100% - 45rem);
+    width: calc(100% - 50rem);
 }
 
 .carousel-caption {
@@ -23,15 +22,5 @@
 }
 
 .coming-soon {
-    width: calc(100% - 72rem);
+    width: calc(100% - 80rem);
 }
-
-/* @media only screen and (min-width: 1400px) {
-    .coming-soon {
-        width: calc(100% - 120rem);
-    }
-
-    .brand-logo {
-        width: calc(100% - 90rem);
-    }
-} */
