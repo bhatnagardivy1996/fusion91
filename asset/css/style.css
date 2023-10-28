@@ -13,15 +13,15 @@
     list-style: none;
 }
 
-.brand-logo {
+/* .brand-logo {
     width: calc(100% - 48rem);
-}
+} */
 
 .carousel-caption {
     bottom: 8.25rem !important;
 }
 
-.coming-soon {
+/* .coming-soon {
     width: calc(100% - 75rem);
 }
 
@@ -33,4 +33,4 @@
     .brand-logo {
         width: calc(100% - 80rem);
     }
-}
+} */
