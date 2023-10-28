@@ -17,8 +17,20 @@
     bottom: 8.25rem !important;
 }
 
+@media only screen and (min-width: 1400px) {
+    .coming-soon {
+        width: calc(100% - 75rem);
+    }
+}
+
 @media only screen and (min-width: 1200px) and (max-width: 1399px) {
     .coming-soon {
-        width: calc(100% - 70rem);
+        width: calc(100% - 65rem);
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .coming-soon {
+        width: calc(100% - 54rem);
     }
 }
